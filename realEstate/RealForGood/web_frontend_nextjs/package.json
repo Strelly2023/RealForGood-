@@ -1,0 +1,7 @@
+{
+  "name": "realforgood-web",
+  "dependencies": {
+    "react": "^18.0.0",
+    "next": "^12.0.0"
+  }
+}

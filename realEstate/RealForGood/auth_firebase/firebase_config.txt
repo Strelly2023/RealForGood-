@@ -1,0 +1,1 @@
+Use Firebase Console to generate config and initialize in your app.

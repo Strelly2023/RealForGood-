@@ -1,0 +1,2 @@
+PostgreSQL: Host=localhost, Port=5432
+Redis: Host=localhost, Port=6379
